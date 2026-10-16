@@ -1,0 +1,6 @@
+{
+  "name": "Property Junction",
+  "description": "Property Junction – Jaipur Real Estate. Led by RK Reddy, Real Estate Professional & Digital Creator. JDA & RERA Approved Projects, luxury villas, modern apartments, and premium investments in Jaipur, Rajasthan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
